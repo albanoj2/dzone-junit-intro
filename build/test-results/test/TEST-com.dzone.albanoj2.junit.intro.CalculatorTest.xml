@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dzone.albanoj2.junit.intro.CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-19T16:05:13" hostname="LT124-DELL-7480" time="0.528">
+  <properties/>
+  <testcase name="givenDefaultCalculator_WhenAddingTwoNonZeroValues_ThenResultIsSum" classname="com.dzone.albanoj2.junit.intro.CalculatorTest" time="0.514"/>
+  <testcase name="givenDefaultCalculator_WhenAddingTwoNonZeroValues_ThenEntryIsAddedToHistory" classname="com.dzone.albanoj2.junit.intro.CalculatorTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
